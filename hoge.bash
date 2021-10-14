@@ -1,5 +1,5 @@
 #1/bin/bash
-#written by Takeru
+#written by Orca
 
 echo hoge
 echo hoge
