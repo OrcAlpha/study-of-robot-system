@@ -1,0 +1,16 @@
+week3
+
+GitHubで使用する主なコマンド
+
+git add -A　...全てのファイルをaddする
+git add (file name) ...指定したファイルをaddする
+
+git commit -m "変更した内容を動詞から書く" ...addされたものをコミットする
+
+git push ...commitしたファイルをgithubにアップロードする
+git pull ...githubからファイルを取り込む
+
+git branch ...どのブランチにいるか確認する
+git checkout (行きたいところ） ...ブランチを出て他のブランチへ
+
+
